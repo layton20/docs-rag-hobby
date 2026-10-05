@@ -429,3 +429,7 @@ FodyWeavers.xsd
 
 # Local data
 data/
+
+# Local secrets
+.env
+!.env.example
