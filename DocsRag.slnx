@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DocsRag.Ingestion/DocsRag.Ingestion.csproj" />
+    <Project Path="src/DocsRag.Query/DocsRag.Query.csproj" />
+  </Folder>
+</Solution>

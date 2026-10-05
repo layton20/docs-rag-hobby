@@ -2,7 +2,7 @@
 
 A hobby project where I learn RAG (Retrieval-Augmented Generation) by building it properly, step by step, in C#.
 
-Ask a question → it finds the most relevant bits of the Npgsql docs → an LLM answers using only those bits (with sources). No vibes-based answers.
+Ask a question → it finds the most relevant bits of the EF Core docs → an LLM answers using only those bits (with sources). No vibes-based answers.
 
 ## why this exists
 
